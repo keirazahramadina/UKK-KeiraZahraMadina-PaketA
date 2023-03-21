@@ -42,7 +42,7 @@
         @elseif ($mas->status == 'proses')
         <h9>proses</h9> 
         @else 
-        <h9>elesai</h9> 
+        <h9>selesai</h9> 
         @endif
 
     </td>
